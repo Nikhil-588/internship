@@ -51,7 +51,7 @@ function Navbar(){
                     
                 </div>
             
-            <a href="/">Home</a>
+            <Link href="/">Home</Link>
             <a
                 href="#about"
                 onClick={(e) => {
@@ -64,8 +64,8 @@ function Navbar(){
                     About
                 </a>
             <Link to="/internship">Internship</Link>
-            <a href="/contact">Contact</a>
-            <a href="/login">Login</a>
+            <Link href="/contact">Contact</Link>
+            <Link href="/login">Login</Link>
            
             
             </div>
