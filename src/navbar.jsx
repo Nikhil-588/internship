@@ -4,7 +4,9 @@ function Navbar(){
     const [menuOpen,setMenuOpen]=useState(false);
     return(
         <nav>
-            <img src="public/image1.png" alt="img" className='logo'/>
+        
+               <img src="/image1.png" alt="Internship Logo" className="logo" />
+
             <h3>INTERNSHIP</h3>
             <button
   className="menu-toggle"
