@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Software Engineering Intern",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "rating": 5,
+    "review": "The internship was a transformative experience. I had the opportunity to work on real-world projects and enhance my technical skills."
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "role": "Frontend Developer Intern",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "rating": 5,
+    "review": "I learned a lot about React and modern web development. The projects helped me improve my confidence and coding skills."
+  },
+  {
+    "id": 3,
+    "name": "Michael Smith",
+    "role": "Data Analyst Intern",
+    "image": "https://randomuser.me/api/portraits/men/46.jpg",
+    "rating": 4,
+    "review": "The internship gave me practical experience with Python, SQL and data visualization. It was a great learning opportunity."
+  },
+  {
+    "id": 4,
+    "name": "Emily Johnson",
+    "role": "UI/UX Design Intern",
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "rating": 5,
+    "review": "I really enjoyed working on real projects and learning about UI/UX design. The experience helped me build a strong portfolio."
+  },
+  {
+    "id": 5,
+    "name": "David Brown",
+    "role": "Java Developer Intern",
+    "image": "https://randomuser.me/api/portraits/men/52.jpg",
+    "rating": 4,
+    "review": "This internship helped me understand Java and backend development better. I gained valuable experience working on practical applications."
+  },
+  {
+    "id": 6,
+    "name": "Priya Sharma",
+    "role": "React Developer Intern",
+    "image": "https://randomuser.me/api/portraits/women/48.jpg",
+    "rating": 5,
+    "review": "A wonderful experience for beginners. I learned React, APIs and component-based development while working on real-world projects."
+  }
+]
