@@ -1,5 +1,5 @@
 import { useState } from "react";
-function Contact()
+function Contacts()
 {
  const [username,setusername]=useState("");
  const [email,setemail]=useState("");
@@ -47,4 +47,4 @@ function Contact()
            </form>
     );
 }
-export default Contact;
+export default Contacts;
