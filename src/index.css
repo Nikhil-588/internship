@@ -104,6 +104,7 @@ nav h3{
   border: 2px solid blue;
   margin-top: -1000px;
   border-radius: 100px;
+  width: 600px;
 
 }
 .internshiplogo :hover{
@@ -154,7 +155,7 @@ button :hover{
   margin-top: -200px;
 }
 .internshiplogo:hover {
-  transform: scale(1.1);
+ 
   filter: brightness(1.1) sepia(0.3);
 }
 
