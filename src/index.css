@@ -1,11 +1,11 @@
 nav{
   background-color: lightgreen;
-  
-  
   display: flex;
   padding: 20px 20px;
   height: 50px;
-
+  margin-top: 0px;
+  border-radius: 10px;
+  width: auto;
 }
 
 nav img{
@@ -87,7 +87,7 @@ nav h3{
   text-align: left;
   font-size: 50px;
   font-weight: bold;
-  margin-top: 210px;
+  margin-top: 205px;
   padding-top: 100px;
   margin-left: 20px;
   
