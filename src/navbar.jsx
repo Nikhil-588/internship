@@ -5,7 +5,7 @@ function Navbar(){
     return(
         <nav>
         
-               <img src="/image1.png" alt="Internship Logo" className="logo" />
+               <img src="/image11.png" alt="Internship Logo" className="logo" />
 
             <h3>INTERNSHIP</h3>
             <button

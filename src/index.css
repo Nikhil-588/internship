@@ -9,7 +9,6 @@ nav{
 }
 
 nav img{
-  background-color: blueviolet;
   height: 85px;
   width: 100px;
   border-radius: 0px;
@@ -323,9 +322,10 @@ gap: 1px;
 }
 .find
 {
-  background-color: lightblue;
+  background-color: white;
   height: 40px;
   font-weight: bold;
+  
   width: auto;
   border-radius: 10px;
   margin-left: 70px;
@@ -652,6 +652,7 @@ form h1{
 }
 .find a{
   text-decoration: none;
+  color: white;
 }
 
 .contact1{
@@ -1277,4 +1278,9 @@ nav a:has(img),
 
 li::marker {
   font-size: 0px;
+}
+
+
+.nofound{
+  text-align: center;
 }

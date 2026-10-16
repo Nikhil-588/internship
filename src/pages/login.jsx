@@ -22,6 +22,12 @@ function Login() {
     const user = users.find(
       (user) => user.email === email && user.password === password
     );
+    
+    if(!user){
+      setError("Account not found. Please create an account to continue");
+      return;
+    } 
+  
 
     if (user) {
       localStorage.setItem("isLoggedIn", "true");
